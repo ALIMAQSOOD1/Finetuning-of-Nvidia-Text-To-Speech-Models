@@ -1,4 +1,5 @@
 # Finetuning-of-Nvidia-Text-To-Speech-Models
+![image](https://github.com/user-attachments/assets/9ed074bd-372a-4fe0-9103-699da5ce194e)
 
 This repository contains the steps and scripts used to fine-tune the Nvidia TTS models tts_en_fastpitch and HiFi-GAN on a custom dataset. Below is a step-by-step guide on how the fine-tuning process was conducted.
 
